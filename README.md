@@ -21,7 +21,7 @@
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SthefayBastos&layout=compact&bg_color=000&border_color=00FFFF&title_color=00FFFF&text_color=FFF)
 
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sthefany-sousa-da-silva-bastos-)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sthefany-sousa-da-silva-bastos-/)
 <!--
 **SthefayBastos/SthefayBastos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
