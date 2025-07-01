@@ -18,7 +18,6 @@
 </a> <a href="" alt="Git" target="_blank">
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SthefayBastos&layout=compact&bg_color=000&border_color=00FFFF&title_color=00FFFF&text_color=FFF)
 
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sthefany-sousa-da-silva-bastos-/)
